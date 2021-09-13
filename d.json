@@ -1,0 +1,955 @@
+{
+          "_dispatchInstances": {
+                    "_debugHookTypes": null,
+                    "_debugID": 20073,
+                    "_debugNeedsRemount": false,
+                    "_debugOwner": {
+                              "_debugHookTypes": null,
+                              "_debugID": 20069,
+                              "_debugNeedsRemount": false,
+                              "_debugOwner": [FiberNode
+                              ],
+                              "_debugSource": [Object
+                              ],
+                              "actualDuration": 0.4768000394105911,
+                              "actualStartTime": 126654609.5146,
+                              "alternate": [FiberNode
+                              ],
+                              "child": [FiberNode
+                              ],
+                              "childLanes": 0,
+                              "dependencies": null,
+                              "elementType": [Object
+                              ],
+                              "firstEffect": [FiberNode
+                              ],
+                              "flags": 1,
+                              "index": 0,
+                              "key": null,
+                              "lanes": 0,
+                              "lastEffect": [Circular
+                              ],
+                              "memoizedProps": [Object
+                              ],
+                              "memoizedState": null,
+                              "mode": 8,
+                              "nextEffect": null,
+                              "pendingProps": [Object
+                              ],
+                              "ref": [Function forwardRef
+                              ],
+                              "return": [FiberNode
+                              ],
+                              "selfBaseDuration": 0.07270000874996185,
+                              "sibling": null,
+                              "stateNode": null,
+                              "tag": 11,
+                              "treeBaseDuration": 0.39810001850128174,
+                              "type": [Object
+                              ],
+                              "updateQueue": null
+                    },
+                    "_debugSource": {
+                              "columnNumber": 7,
+                              "fileName": "C:\\Users\\Excalibur\\Desktop\\sss\\rick\\node_modules\\react-native\\Libraries\\Components\\View\\View.js",
+                              "lineNumber": 32
+                    },
+                    "actualDuration": 0.34620000422000885,
+                    "actualStartTime": 126654609.6479,
+                    "alternate": {
+                              "_debugHookTypes": null,
+                              "_debugID": 20073,
+                              "_debugNeedsRemount": false,
+                              "_debugOwner": [FiberNode
+                              ],
+                              "_debugSource": [Object
+                              ],
+                              "actualDuration": 0.4316999912261963,
+                              "actualStartTime": 126654680.6216,
+                              "alternate": [Circular
+                              ],
+                              "child": [FiberNode
+                              ],
+                              "childLanes": 0,
+                              "dependencies": null,
+                              "elementType": "RCTView",
+                              "firstEffect": [FiberNode
+                              ],
+                              "flags": 4,
+                              "index": 0,
+                              "key": null,
+                              "lanes": 0,
+                              "lastEffect": [FiberNode
+                              ],
+                              "memoizedProps": [Object
+                              ],
+                              "memoizedState": null,
+                              "mode": 8,
+                              "nextEffect": null,
+                              "pendingProps": [Object
+                              ],
+                              "ref": [Function forwardRef
+                              ],
+                              "return": [FiberNode
+                              ],
+                              "selfBaseDuration": 0.1527000069618225,
+                              "sibling": null,
+                              "stateNode": [ReactNativeFiberHostComponent
+                              ],
+                              "tag": 5,
+                              "treeBaseDuration": 0.37710000574588776,
+                              "type": "RCTView",
+                              "updateQueue": null
+                    },
+                    "child": {
+                              "_debugHookTypes": [Array
+                              ],
+                              "_debugID": 20075,
+                              "_debugNeedsRemount": false,
+                              "_debugOwner": [FiberNode
+                              ],
+                              "_debugSource": [Object
+                              ],
+                              "actualDuration": 0.2388000190258026,
+                              "actualStartTime": 126654609.7039,
+                              "alternate": [FiberNode
+                              ],
+                              "child": [FiberNode
+                              ],
+                              "childLanes": 0,
+                              "dependencies": [Object
+                              ],
+                              "elementType": [Object
+                              ],
+                              "firstEffect": [FiberNode
+                              ],
+                              "flags": 1,
+                              "index": 0,
+                              "key": null,
+                              "lanes": 0,
+                              "lastEffect": [FiberNode
+                              ],
+                              "memoizedProps": [Object
+                              ],
+                              "memoizedState": [Object
+                              ],
+                              "mode": 8,
+                              "nextEffect": null,
+                              "pendingProps": [Object
+                              ],
+                              "ref": null,
+                              "return": [Circular
+                              ],
+                              "selfBaseDuration": 0.11159999668598175,
+                              "sibling": [FiberNode
+                              ],
+                              "stateNode": null,
+                              "tag": 11,
+                              "treeBaseDuration": 0.21130001544952393,
+                              "type": [Object
+                              ],
+                              "updateQueue": [Object
+                              ]
+                    },
+                    "childLanes": 0,
+                    "dependencies": null,
+                    "elementType": "RCTView",
+                    "firstEffect": {
+                              "_debugHookTypes": null,
+                              "_debugID": 20080,
+                              "_debugNeedsRemount": false,
+                              "_debugOwner": [FiberNode
+                              ],
+                              "_debugSource": [Object
+                              ],
+                              "actualDuration": 0.06350001692771912,
+                              "actualStartTime": 126654609.8821,
+                              "alternate": [FiberNode
+                              ],
+                              "child": [FiberNode
+                              ],
+                              "childLanes": 0,
+                              "dependencies": null,
+                              "elementType": "RCTText",
+                              "firstEffect": null,
+                              "flags": 4,
+                              "index": 0,
+                              "key": null,
+                              "lanes": 0,
+                              "lastEffect": null,
+                              "memoizedProps": [Object
+                              ],
+                              "memoizedState": null,
+                              "mode": 8,
+                              "nextEffect": null,
+                              "pendingProps": [Object
+                              ],
+                              "ref": null,
+                              "return": [FiberNode
+                              ],
+                              "selfBaseDuration": 0.0341000109910965,
+                              "sibling": null,
+                              "stateNode": [ReactNativeFiberHostComponent
+                              ],
+                              "tag": 5,
+                              "treeBaseDuration": 0.06120002269744873,
+                              "type": "RCTText",
+                              "updateQueue": null
+                    },
+                    "flags": 4,
+                    "index": 0,
+                    "key": null,
+                    "lanes": 0,
+                    "lastEffect": {
+                              "_debugHookTypes": null,
+                              "_debugID": 20080,
+                              "_debugNeedsRemount": false,
+                              "_debugOwner": [FiberNode
+                              ],
+                              "_debugSource": [Object
+                              ],
+                              "actualDuration": 0.06350001692771912,
+                              "actualStartTime": 126654609.8821,
+                              "alternate": [FiberNode
+                              ],
+                              "child": [FiberNode
+                              ],
+                              "childLanes": 0,
+                              "dependencies": null,
+                              "elementType": "RCTText",
+                              "firstEffect": null,
+                              "flags": 4,
+                              "index": 0,
+                              "key": null,
+                              "lanes": 0,
+                              "lastEffect": null,
+                              "memoizedProps": [Object
+                              ],
+                              "memoizedState": null,
+                              "mode": 8,
+                              "nextEffect": null,
+                              "pendingProps": [Object
+                              ],
+                              "ref": null,
+                              "return": [FiberNode
+                              ],
+                              "selfBaseDuration": 0.0341000109910965,
+                              "sibling": null,
+                              "stateNode": [ReactNativeFiberHostComponent
+                              ],
+                              "tag": 5,
+                              "treeBaseDuration": 0.06120002269744873,
+                              "type": "RCTText",
+                              "updateQueue": null
+                    },
+                    "memoizedProps": {
+                              "accessibilityActions": undefined,
+                              "accessibilityElementsHidden": undefined,
+                              "accessibilityHint": undefined,
+                              "accessibilityLabel": undefined,
+                              "accessibilityLiveRegion": undefined,
+                              "accessibilityRole": undefined,
+                              "accessibilityState": undefined,
+                              "accessibilityValue": undefined,
+                              "accessibilityViewIsModal": undefined,
+                              "accessible": true,
+                              "children": [Array
+                              ],
+                              "focusable": true,
+                              "hasTVPreferredFocus": undefined,
+                              "hitSlop": undefined,
+                              "importantForAccessibility": undefined,
+                              "nativeID": undefined,
+                              "nextFocusDown": undefined,
+                              "nextFocusForward": undefined,
+                              "nextFocusLeft": undefined,
+                              "nextFocusRight": undefined,
+                              "nextFocusUp": undefined,
+                              "onAccessibilityAction": undefined,
+                              "onClick": [Function onClick
+                              ],
+                              "onLayout": undefined,
+                              "onResponderGrant": [Function onResponderGrant
+                              ],
+                              "onResponderMove": [Function onResponderMove
+                              ],
+                              "onResponderRelease": [Function onResponderRelease
+                              ],
+                              "onResponderTerminate": [Function onResponderTerminate
+                              ],
+                              "onResponderTerminationRequest": [Function onResponderTerminationRequest
+                              ],
+                              "onStartShouldSetResponder": [Function onStartShouldSetResponder
+                              ],
+                              "style": [Object
+                              ],
+                              "testID": undefined
+                    },
+                    "memoizedState": null,
+                    "mode": 8,
+                    "nextEffect": null,
+                    "pendingProps": {
+                              "accessibilityActions": undefined,
+                              "accessibilityElementsHidden": undefined,
+                              "accessibilityHint": undefined,
+                              "accessibilityLabel": undefined,
+                              "accessibilityLiveRegion": undefined,
+                              "accessibilityRole": undefined,
+                              "accessibilityState": undefined,
+                              "accessibilityValue": undefined,
+                              "accessibilityViewIsModal": undefined,
+                              "accessible": true,
+                              "children": [Array
+                              ],
+                              "focusable": true,
+                              "hasTVPreferredFocus": undefined,
+                              "hitSlop": undefined,
+                              "importantForAccessibility": undefined,
+                              "nativeID": undefined,
+                              "nextFocusDown": undefined,
+                              "nextFocusForward": undefined,
+                              "nextFocusLeft": undefined,
+                              "nextFocusRight": undefined,
+                              "nextFocusUp": undefined,
+                              "onAccessibilityAction": undefined,
+                              "onClick": [Function onClick
+                              ],
+                              "onLayout": undefined,
+                              "onResponderGrant": [Function onResponderGrant
+                              ],
+                              "onResponderMove": [Function onResponderMove
+                              ],
+                              "onResponderRelease": [Function onResponderRelease
+                              ],
+                              "onResponderTerminate": [Function onResponderTerminate
+                              ],
+                              "onResponderTerminationRequest": [Function onResponderTerminationRequest
+                              ],
+                              "onStartShouldSetResponder": [Function onStartShouldSetResponder
+                              ],
+                              "style": [Object
+                              ],
+                              "testID": undefined
+                    },
+                    "ref": [Function forwardRef
+                    ],
+                    "return": {
+                              "_debugHookTypes": null,
+                              "_debugID": 20071,
+                              "_debugNeedsRemount": false,
+                              "_debugOwner": [FiberNode
+                              ],
+                              "_debugSource": [Object
+                              ],
+                              "actualDuration": 0.3921000212430954,
+                              "actualStartTime": 126654609.6014,
+                              "alternate": [FiberNode
+                              ],
+                              "child": [Circular
+                              ],
+                              "childLanes": 0,
+                              "dependencies": null,
+                              "elementType": [Object
+                              ],
+                              "firstEffect": [FiberNode
+                              ],
+                              "flags": 0,
+                              "index": 0,
+                              "key": null,
+                              "lanes": 0,
+                              "lastEffect": [Circular
+                              ],
+                              "memoizedProps": [Object
+                              ],
+                              "memoizedState": null,
+                              "mode": 8,
+                              "nextEffect": null,
+                              "pendingProps": [Object
+                              ],
+                              "ref": null,
+                              "return": [FiberNode
+                              ],
+                              "selfBaseDuration": 0.03300000727176666,
+                              "sibling": null,
+                              "stateNode": null,
+                              "tag": 10,
+                              "treeBaseDuration": 0.3254000097513199,
+                              "type": [Object
+                              ],
+                              "updateQueue": null
+                    },
+                    "selfBaseDuration": 0.04259999096393585,
+                    "sibling": null,
+                    "stateNode": {
+                              "_children": [Array
+                              ],
+                              "_internalFiberInstanceHandleDEV": [Circular
+                              ],
+                              "_nativeTag": 695,
+                              "viewConfig": [Object
+                              ]
+                    },
+                    "tag": 5,
+                    "treeBaseDuration": 0.2924000024795532,
+                    "type": "RCTView",
+                    "updateQueue": null
+          },
+          "_dispatchListeners": [Function onResponderRelease
+          ],
+          "_targetInst": {
+                    "_debugHookTypes": null,
+                    "_debugID": 20073,
+                    "_debugNeedsRemount": false,
+                    "_debugOwner": {
+                              "_debugHookTypes": null,
+                              "_debugID": 20069,
+                              "_debugNeedsRemount": false,
+                              "_debugOwner": [FiberNode
+                              ],
+                              "_debugSource": [Object
+                              ],
+                              "actualDuration": 0.4768000394105911,
+                              "actualStartTime": 126654609.5146,
+                              "alternate": [FiberNode
+                              ],
+                              "child": [FiberNode
+                              ],
+                              "childLanes": 0,
+                              "dependencies": null,
+                              "elementType": [Object
+                              ],
+                              "firstEffect": [FiberNode
+                              ],
+                              "flags": 1,
+                              "index": 0,
+                              "key": null,
+                              "lanes": 0,
+                              "lastEffect": [Circular
+                              ],
+                              "memoizedProps": [Object
+                              ],
+                              "memoizedState": null,
+                              "mode": 8,
+                              "nextEffect": null,
+                              "pendingProps": [Object
+                              ],
+                              "ref": [Function forwardRef
+                              ],
+                              "return": [FiberNode
+                              ],
+                              "selfBaseDuration": 0.07270000874996185,
+                              "sibling": null,
+                              "stateNode": null,
+                              "tag": 11,
+                              "treeBaseDuration": 0.39810001850128174,
+                              "type": [Object
+                              ],
+                              "updateQueue": null
+                    },
+                    "_debugSource": {
+                              "columnNumber": 7,
+                              "fileName": "C:\\Users\\Excalibur\\Desktop\\sss\\rick\\node_modules\\react-native\\Libraries\\Components\\View\\View.js",
+                              "lineNumber": 32
+                    },
+                    "actualDuration": 0.34620000422000885,
+                    "actualStartTime": 126654609.6479,
+                    "alternate": {
+                              "_debugHookTypes": null,
+                              "_debugID": 20073,
+                              "_debugNeedsRemount": false,
+                              "_debugOwner": [FiberNode
+                              ],
+                              "_debugSource": [Object
+                              ],
+                              "actualDuration": 0.4316999912261963,
+                              "actualStartTime": 126654680.6216,
+                              "alternate": [Circular
+                              ],
+                              "child": [FiberNode
+                              ],
+                              "childLanes": 0,
+                              "dependencies": null,
+                              "elementType": "RCTView",
+                              "firstEffect": [FiberNode
+                              ],
+                              "flags": 4,
+                              "index": 0,
+                              "key": null,
+                              "lanes": 0,
+                              "lastEffect": [FiberNode
+                              ],
+                              "memoizedProps": [Object
+                              ],
+                              "memoizedState": null,
+                              "mode": 8,
+                              "nextEffect": null,
+                              "pendingProps": [Object
+                              ],
+                              "ref": [Function forwardRef
+                              ],
+                              "return": [FiberNode
+                              ],
+                              "selfBaseDuration": 0.1527000069618225,
+                              "sibling": null,
+                              "stateNode": [ReactNativeFiberHostComponent
+                              ],
+                              "tag": 5,
+                              "treeBaseDuration": 0.37710000574588776,
+                              "type": "RCTView",
+                              "updateQueue": null
+                    },
+                    "child": {
+                              "_debugHookTypes": [Array
+                              ],
+                              "_debugID": 20075,
+                              "_debugNeedsRemount": false,
+                              "_debugOwner": [FiberNode
+                              ],
+                              "_debugSource": [Object
+                              ],
+                              "actualDuration": 0.2388000190258026,
+                              "actualStartTime": 126654609.7039,
+                              "alternate": [FiberNode
+                              ],
+                              "child": [FiberNode
+                              ],
+                              "childLanes": 0,
+                              "dependencies": [Object
+                              ],
+                              "elementType": [Object
+                              ],
+                              "firstEffect": [FiberNode
+                              ],
+                              "flags": 1,
+                              "index": 0,
+                              "key": null,
+                              "lanes": 0,
+                              "lastEffect": [FiberNode
+                              ],
+                              "memoizedProps": [Object
+                              ],
+                              "memoizedState": [Object
+                              ],
+                              "mode": 8,
+                              "nextEffect": null,
+                              "pendingProps": [Object
+                              ],
+                              "ref": null,
+                              "return": [Circular
+                              ],
+                              "selfBaseDuration": 0.11159999668598175,
+                              "sibling": [FiberNode
+                              ],
+                              "stateNode": null,
+                              "tag": 11,
+                              "treeBaseDuration": 0.21130001544952393,
+                              "type": [Object
+                              ],
+                              "updateQueue": [Object
+                              ]
+                    },
+                    "childLanes": 0,
+                    "dependencies": null,
+                    "elementType": "RCTView",
+                    "firstEffect": {
+                              "_debugHookTypes": null,
+                              "_debugID": 20080,
+                              "_debugNeedsRemount": false,
+                              "_debugOwner": [FiberNode
+                              ],
+                              "_debugSource": [Object
+                              ],
+                              "actualDuration": 0.06350001692771912,
+                              "actualStartTime": 126654609.8821,
+                              "alternate": [FiberNode
+                              ],
+                              "child": [FiberNode
+                              ],
+                              "childLanes": 0,
+                              "dependencies": null,
+                              "elementType": "RCTText",
+                              "firstEffect": null,
+                              "flags": 4,
+                              "index": 0,
+                              "key": null,
+                              "lanes": 0,
+                              "lastEffect": null,
+                              "memoizedProps": [Object
+                              ],
+                              "memoizedState": null,
+                              "mode": 8,
+                              "nextEffect": null,
+                              "pendingProps": [Object
+                              ],
+                              "ref": null,
+                              "return": [FiberNode
+                              ],
+                              "selfBaseDuration": 0.0341000109910965,
+                              "sibling": null,
+                              "stateNode": [ReactNativeFiberHostComponent
+                              ],
+                              "tag": 5,
+                              "treeBaseDuration": 0.06120002269744873,
+                              "type": "RCTText",
+                              "updateQueue": null
+                    },
+                    "flags": 4,
+                    "index": 0,
+                    "key": null,
+                    "lanes": 0,
+                    "lastEffect": {
+                              "_debugHookTypes": null,
+                              "_debugID": 20080,
+                              "_debugNeedsRemount": false,
+                              "_debugOwner": [FiberNode
+                              ],
+                              "_debugSource": [Object
+                              ],
+                              "actualDuration": 0.06350001692771912,
+                              "actualStartTime": 126654609.8821,
+                              "alternate": [FiberNode
+                              ],
+                              "child": [FiberNode
+                              ],
+                              "childLanes": 0,
+                              "dependencies": null,
+                              "elementType": "RCTText",
+                              "firstEffect": null,
+                              "flags": 4,
+                              "index": 0,
+                              "key": null,
+                              "lanes": 0,
+                              "lastEffect": null,
+                              "memoizedProps": [Object
+                              ],
+                              "memoizedState": null,
+                              "mode": 8,
+                              "nextEffect": null,
+                              "pendingProps": [Object
+                              ],
+                              "ref": null,
+                              "return": [FiberNode
+                              ],
+                              "selfBaseDuration": 0.0341000109910965,
+                              "sibling": null,
+                              "stateNode": [ReactNativeFiberHostComponent
+                              ],
+                              "tag": 5,
+                              "treeBaseDuration": 0.06120002269744873,
+                              "type": "RCTText",
+                              "updateQueue": null
+                    },
+                    "memoizedProps": {
+                              "accessibilityActions": undefined,
+                              "accessibilityElementsHidden": undefined,
+                              "accessibilityHint": undefined,
+                              "accessibilityLabel": undefined,
+                              "accessibilityLiveRegion": undefined,
+                              "accessibilityRole": undefined,
+                              "accessibilityState": undefined,
+                              "accessibilityValue": undefined,
+                              "accessibilityViewIsModal": undefined,
+                              "accessible": true,
+                              "children": [Array
+                              ],
+                              "focusable": true,
+                              "hasTVPreferredFocus": undefined,
+                              "hitSlop": undefined,
+                              "importantForAccessibility": undefined,
+                              "nativeID": undefined,
+                              "nextFocusDown": undefined,
+                              "nextFocusForward": undefined,
+                              "nextFocusLeft": undefined,
+                              "nextFocusRight": undefined,
+                              "nextFocusUp": undefined,
+                              "onAccessibilityAction": undefined,
+                              "onClick": [Function onClick
+                              ],
+                              "onLayout": undefined,
+                              "onResponderGrant": [Function onResponderGrant
+                              ],
+                              "onResponderMove": [Function onResponderMove
+                              ],
+                              "onResponderRelease": [Function onResponderRelease
+                              ],
+                              "onResponderTerminate": [Function onResponderTerminate
+                              ],
+                              "onResponderTerminationRequest": [Function onResponderTerminationRequest
+                              ],
+                              "onStartShouldSetResponder": [Function onStartShouldSetResponder
+                              ],
+                              "style": [Object
+                              ],
+                              "testID": undefined
+                    },
+                    "memoizedState": null,
+                    "mode": 8,
+                    "nextEffect": null,
+                    "pendingProps": {
+                              "accessibilityActions": undefined,
+                              "accessibilityElementsHidden": undefined,
+                              "accessibilityHint": undefined,
+                              "accessibilityLabel": undefined,
+                              "accessibilityLiveRegion": undefined,
+                              "accessibilityRole": undefined,
+                              "accessibilityState": undefined,
+                              "accessibilityValue": undefined,
+                              "accessibilityViewIsModal": undefined,
+                              "accessible": true,
+                              "children": [Array
+                              ],
+                              "focusable": true,
+                              "hasTVPreferredFocus": undefined,
+                              "hitSlop": undefined,
+                              "importantForAccessibility": undefined,
+                              "nativeID": undefined,
+                              "nextFocusDown": undefined,
+                              "nextFocusForward": undefined,
+                              "nextFocusLeft": undefined,
+                              "nextFocusRight": undefined,
+                              "nextFocusUp": undefined,
+                              "onAccessibilityAction": undefined,
+                              "onClick": [Function onClick
+                              ],
+                              "onLayout": undefined,
+                              "onResponderGrant": [Function onResponderGrant
+                              ],
+                              "onResponderMove": [Function onResponderMove
+                              ],
+                              "onResponderRelease": [Function onResponderRelease
+                              ],
+                              "onResponderTerminate": [Function onResponderTerminate
+                              ],
+                              "onResponderTerminationRequest": [Function onResponderTerminationRequest
+                              ],
+                              "onStartShouldSetResponder": [Function onStartShouldSetResponder
+                              ],
+                              "style": [Object
+                              ],
+                              "testID": undefined
+                    },
+                    "ref": [Function forwardRef
+                    ],
+                    "return": {
+                              "_debugHookTypes": null,
+                              "_debugID": 20071,
+                              "_debugNeedsRemount": false,
+                              "_debugOwner": [FiberNode
+                              ],
+                              "_debugSource": [Object
+                              ],
+                              "actualDuration": 0.3921000212430954,
+                              "actualStartTime": 126654609.6014,
+                              "alternate": [FiberNode
+                              ],
+                              "child": [Circular
+                              ],
+                              "childLanes": 0,
+                              "dependencies": null,
+                              "elementType": [Object
+                              ],
+                              "firstEffect": [FiberNode
+                              ],
+                              "flags": 0,
+                              "index": 0,
+                              "key": null,
+                              "lanes": 0,
+                              "lastEffect": [Circular
+                              ],
+                              "memoizedProps": [Object
+                              ],
+                              "memoizedState": null,
+                              "mode": 8,
+                              "nextEffect": null,
+                              "pendingProps": [Object
+                              ],
+                              "ref": null,
+                              "return": [FiberNode
+                              ],
+                              "selfBaseDuration": 0.03300000727176666,
+                              "sibling": null,
+                              "stateNode": null,
+                              "tag": 10,
+                              "treeBaseDuration": 0.3254000097513199,
+                              "type": [Object
+                              ],
+                              "updateQueue": null
+                    },
+                    "selfBaseDuration": 0.04259999096393585,
+                    "sibling": null,
+                    "stateNode": {
+                              "_children": [Array
+                              ],
+                              "_internalFiberInstanceHandleDEV": [Circular
+                              ],
+                              "_nativeTag": 695,
+                              "viewConfig": [Object
+                              ]
+                    },
+                    "tag": 5,
+                    "treeBaseDuration": 0.2924000024795532,
+                    "type": "RCTView",
+                    "updateQueue": null
+          },
+          "bubbles": undefined,
+          "cancelable": undefined,
+          "currentTarget": {
+                    "_children": [
+                              [ReactNativeFiberHostComponent
+                              ]
+                    ],
+                    "_internalFiberInstanceHandleDEV": {
+                              "_debugHookTypes": null,
+                              "_debugID": 20073,
+                              "_debugNeedsRemount": false,
+                              "_debugOwner": [FiberNode
+                              ],
+                              "_debugSource": [Object
+                              ],
+                              "actualDuration": 0.34620000422000885,
+                              "actualStartTime": 126654609.6479,
+                              "alternate": [FiberNode
+                              ],
+                              "child": [FiberNode
+                              ],
+                              "childLanes": 0,
+                              "dependencies": null,
+                              "elementType": "RCTView",
+                              "firstEffect": [FiberNode
+                              ],
+                              "flags": 4,
+                              "index": 0,
+                              "key": null,
+                              "lanes": 0,
+                              "lastEffect": [FiberNode
+                              ],
+                              "memoizedProps": [Object
+                              ],
+                              "memoizedState": null,
+                              "mode": 8,
+                              "nextEffect": null,
+                              "pendingProps": [Object
+                              ],
+                              "ref": [Function forwardRef
+                              ],
+                              "return": [FiberNode
+                              ],
+                              "selfBaseDuration": 0.04259999096393585,
+                              "sibling": null,
+                              "stateNode": [Circular
+                              ],
+                              "tag": 5,
+                              "treeBaseDuration": 0.2924000024795532,
+                              "type": "RCTView",
+                              "updateQueue": null
+                    },
+                    "_nativeTag": 695,
+                    "viewConfig": {
+                              "Commands": [Object
+                              ],
+                              "NativeProps": [Object
+                              ],
+                              "bubblingEventTypes": undefined,
+                              "directEventTypes": [Object
+                              ],
+                              "uiViewClassName": "RCTView",
+                              "validAttributes": [Object
+                              ]
+                    }
+          },
+          "defaultPrevented": undefined,
+          "dispatchConfig": {
+                    "dependencies": [
+                              "topTouchCancel",
+                              "topTouchEnd"
+                    ],
+                    "registrationName": "onResponderRelease"
+          },
+          "eventPhase": undefined,
+          "isDefaultPrevented": [Function functionThatReturnsFalse
+          ],
+          "isPropagationStopped": [Function functionThatReturnsFalse
+          ],
+          "isTrusted": undefined,
+          "nativeEvent": {
+                    "changedTouches": [
+                              [Circular
+                              ]
+                    ],
+                    "identifier": 0,
+                    "locationX": 49.984375,
+                    "locationY": 9.109375,
+                    "pageX": 153.984375,
+                    "pageY": 232.25222778320312,
+                    "target": 693,
+                    "targetSurface": 1,
+                    "timestamp": 1631413915047,
+                    "touches": []
+          },
+          "target": {
+                    "_children": [
+                              689
+                    ],
+                    "_internalFiberInstanceHandleDEV": {
+                              "_debugHookTypes": null,
+                              "_debugID": 20080,
+                              "_debugNeedsRemount": false,
+                              "_debugOwner": [FiberNode
+                              ],
+                              "_debugSource": [Object
+                              ],
+                              "actualDuration": 0.06350001692771912,
+                              "actualStartTime": 126654609.8821,
+                              "alternate": [FiberNode
+                              ],
+                              "child": [FiberNode
+                              ],
+                              "childLanes": 0,
+                              "dependencies": null,
+                              "elementType": "RCTText",
+                              "firstEffect": null,
+                              "flags": 4,
+                              "index": 0,
+                              "key": null,
+                              "lanes": 0,
+                              "lastEffect": null,
+                              "memoizedProps": [Object
+                              ],
+                              "memoizedState": null,
+                              "mode": 8,
+                              "nextEffect": null,
+                              "pendingProps": [Object
+                              ],
+                              "ref": null,
+                              "return": [FiberNode
+                              ],
+                              "selfBaseDuration": 0.0341000109910965,
+                              "sibling": null,
+                              "stateNode": [Circular
+                              ],
+                              "tag": 5,
+                              "treeBaseDuration": 0.06120002269744873,
+                              "type": "RCTText",
+                              "updateQueue": null
+                    },
+                    "_nativeTag": 693,
+                    "viewConfig": {
+                              "directEventTypes": [Object
+                              ],
+                              "uiViewClassName": "RCTText",
+                              "validAttributes": [Object
+                              ]
+                    }
+          },
+          "timeStamp": 1631413915051,
+          "touchHistory": {
+                    "indexOfSingleActiveTouch": 0,
+                    "mostRecentTimeStamp": 1631413915047,
+                    "numberActiveTouches": 0,
+                    "touchBank": [
+                              [Object
+                              ]
+                    ]
+          },
+          "type": undefined
+}
